@@ -1,0 +1,11 @@
+{
+  "name": "portf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Nasty_Jack",
+  "license": "ISC"
+}
