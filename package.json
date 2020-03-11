@@ -4,8 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "nodemon": "'/npm start server/' '/npm start client/'",
     "test": "start"
   },
   "author": "Nasty_Jack",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3"
+  }
 }
